@@ -1,2 +1,3 @@
 # Demo
-Chào các bạn. Đây là lần đầu tôi tấp sử dụng github, hihi!!!
+Chào các bạn. Đây là lần đầu tôi tập sử dụng github, hihi!!!
+Tạm biệt.
